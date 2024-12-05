@@ -1,3 +1,10 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+/* CSS Full page */
+body {
+	height: 100vh;
+	width: 100%;
+	margin: 0 auto;
+}
